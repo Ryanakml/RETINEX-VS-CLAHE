@@ -102,16 +102,8 @@ Aplikasi ini terdiri dari beberapa komponen utama:
 
 Kontribusi untuk meningkatkan aplikasi ini sangat diterima. Silakan fork repositori ini, buat perubahan, dan kirimkan pull request.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-## Kontak
-
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi [email@example.com](mailto:email@example.com).
-
 ---
 
-Dibuat dengan ❤️ menggunakan Streamlit dan Python.
+Dibuat oleh saya sendiri menggunakan Streamlit dan Python.
 
         
